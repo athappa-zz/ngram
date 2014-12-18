@@ -7,3 +7,6 @@ word appears relative to the total number of words that were published in any gi
 
 The first file generates a relatively simple plot of the relative frequency of any 3 words you input when you call a function.
 http://joshh.ug/SRPC/assignments/assignment3.html
+
+To get the underlying data click on the following link:
+http://joshh.ug/SRPC/assignments/datafiles3.zip
